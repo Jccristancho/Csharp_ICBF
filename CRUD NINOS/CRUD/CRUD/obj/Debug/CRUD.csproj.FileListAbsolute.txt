@@ -1,0 +1,138 @@
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Buffers.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Memory.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\ZstdNet.dll
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\MySql.Data.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Buffers.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Memory.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.FRMProductos.resources
+C:\Users\LuisOsvaldoJuanesHin\Documents\Juanes\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.FormJardin.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Buffers.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Memory.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\ZstdNet.dll
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\MySql.Data.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Buffers.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Memory.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Downloads\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Buffers.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Memory.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\ZstdNet.dll
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\MySql.Data.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Buffers.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Memory.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.FormJardin.resources
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.Visual.FormNinos.resources
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\pc\Documents\SENA\C#\CRUD\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.Visual.FormNinos.resources
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Buffers.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Memory.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\ZstdNet.dll
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\MySql.Data.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Buffers.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Memory.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Documents\SENA\C#\CRUD - copia\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
